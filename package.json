@@ -8,11 +8,11 @@
     "info": {
         "githubURL": "BBDD-ETSIT/MOOC_PRACTICA_JSON_Y_JSON_SCHEMA",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1521",
-        "assignmentId": "876"
+        "courseId": "127",
+        "assignmentId": "5"
     },
     "dependencies": {
-        "autocorector": "^3.1.6",
+        "autocorector": "^3.5.0",
         "ajv": "^8.10.0",
         "ajv-formats": "^2.1.1"
     }
